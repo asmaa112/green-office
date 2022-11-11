@@ -1,0 +1,49 @@
+body{
+background-image: url(fond.png);
+}
+.divhaut{
+   background-color:#b8cb21 ; 
+   width: 50%;
+   margin: auto;
+}
+.div2{
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    height: 630px;
+}
+.images{
+    width: 150px;
+    padding:4px;
+    float: left;   
+}
+.whatwedo{
+    color: #b8cb21;
+    list-style-type: none;
+}
+.button{
+width: 90px;
+height: 40px;
+background-color: #b8cb21;
+color: white;
+font-weight: 700; border: none; margin-left: 510px; 
+}
+.img3w{
+    margin-left: 655px;
+margin-top: 20px;
+width: 40px;
+height: 40px;
+}
+nav{
+    overflow: auto;
+}
+.ul1{
+    float: right;
+    margin-top: 60px;
+    margin-right: 30px;
+}
+.li1{
+    float: left;
+    padding: 10px;
+    list-style-type: none;
+}
